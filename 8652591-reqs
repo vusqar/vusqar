@@ -1,33 +1,7 @@
 {
-  "1": {
-    "name": "[S0] Cadet",
-    "requirements": {
-      "Orientations": 1,
-      "Cadet Exam": 1
+    "groups": {
+        "16049810": 10,
+        "7654321": 100,
+        "9876543": 1
     }
-  },
-  "10": {
-    "name": "[S1] Probationary Officer",
-    "requirements": {
-      "Combat Training": 1,
-      "Drills": 1,
-      "Patrols": 1
-    }
-  },
-  "20": {
-    "name": "[S2] Officer",
-    "requirements": {
-      "Combat Training": 3,
-      "Drills": 3,
-      "Patrols": 2
-    }
-  },
-  "30": {
-    "name": "[S3] Senior Officer",
-    "requirements": {
-      "Combat Training": 6,
-      "Drills": 6,
-      "Patrols": 5
-    }
-  }
 }
